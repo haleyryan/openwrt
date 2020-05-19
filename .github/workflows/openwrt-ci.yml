@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: 编译D2固件带sdk(curl) 19.07稳定版
+name: 编译D2固件 带sdk(curl) 19.07稳定版
 
 on:
   push:
